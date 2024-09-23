@@ -1,0 +1,20 @@
+{
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.wordWrap": "on",
+    "debug.onTaskErrors": "abort",
+    "editor.lineHeight": 15,
+    "editor.renderWhitespace": "all",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "explorer.confirmPasteNative": false,
+    "files.exclude": {
+      ".**": true
+    },
+    "editor.fontSize": 13
+}
